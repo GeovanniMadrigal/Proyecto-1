@@ -1,0 +1,30 @@
+# Docker
+docker-compose.override.yml
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Airflow
+airflow/logs/
+airflow/plugins/__pycache__/
+
+# Data
+data/*.csv
+!data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
