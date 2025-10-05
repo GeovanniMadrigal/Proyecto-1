@@ -1,4 +1,4 @@
-# 🚀 ETL Pipeline
+#  ETL Pipeline
 
 Un proyecto completo de ingeniería de datos que implementa un pipeline ETL usando Docker, Airflow y PostgreSQL.
 
